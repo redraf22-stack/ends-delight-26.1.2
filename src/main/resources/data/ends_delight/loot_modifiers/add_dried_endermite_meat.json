@@ -1,0 +1,36 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:endermite"
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "flags": {
+          "is_on_fire": true
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "attacker",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "items": "#farmersdelight:tools/knives"
+          }
+        }
+      }
+    }
+  ],
+  "item": "ends_delight:dried_endermite_meat",
+  "count": 2,
+  "bonus1": 0.75,
+  "bonus2": 0.5,
+  "type": "ends_delight:add_item"
+}

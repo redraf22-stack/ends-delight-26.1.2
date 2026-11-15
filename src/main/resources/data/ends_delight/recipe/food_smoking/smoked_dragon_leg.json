@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "ingredient": "ends_delight:dragon_leg",
+  "result": {
+    "id": "ends_delight:smoked_dragon_leg"
+  },
+  "cookingtime": 200,
+  "experience": 0.35
+}

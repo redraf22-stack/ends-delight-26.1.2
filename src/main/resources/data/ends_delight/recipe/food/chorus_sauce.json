@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    "ends_delight:chorus_succulent",
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    }
+  ],
+  "result": {
+    "id": "ends_delight:chorus_sauce"
+  },
+  "recipe_book_tab": "misc",
+  "cookingtime": 200,
+  "experience": 0.35
+}

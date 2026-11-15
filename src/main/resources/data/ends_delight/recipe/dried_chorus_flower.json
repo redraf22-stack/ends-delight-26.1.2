@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": "minecraft:chorus_flower",
+  "result": {
+    "id": "ends_delight:dried_chorus_flower"
+  },
+  "cookingtime": 200,
+  "experience": 0.35
+}

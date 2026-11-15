@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "ends_delight:raw_ender_sausage",
+  "result": {
+    "id": "ends_delight:ender_sausage"
+  },
+  "cookingtime": 200,
+  "experience": 0.35
+}

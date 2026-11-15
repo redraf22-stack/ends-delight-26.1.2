@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:crops/rice",
+    "minecraft:sugar",
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    }
+  ],
+  "result": {
+    "id": "ends_delight:stuffed_rice_cake",
+    "count": 2
+  }
+}

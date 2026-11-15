@@ -1,0 +1,19 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    "#c:drinks/milk",
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    }
+  ],
+  "result": {
+    "id": "ends_delight:chorus_fruit_milk_tea"
+  },
+  "recipe_book_tab": "drinks",
+  "cookingtime": 200,
+  "experience": 1.0
+}

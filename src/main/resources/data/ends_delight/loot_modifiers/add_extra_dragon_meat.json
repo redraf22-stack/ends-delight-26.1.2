@@ -1,0 +1,25 @@
+{
+  "conditions": [
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "type": "minecraft:ender_dragon"
+      }
+    },
+    {
+      "condition": "minecraft:entity_properties",
+      "entity": "attacker",
+      "predicate": {
+        "equipment": {
+          "mainhand": {
+            "items": "#farmersdelight:tools/knives"
+          }
+        }
+      }
+    }
+  ],
+  "item": "ends_delight:raw_dragon_meat",
+  "count": 2,
+  "type": "ends_delight:add_item"
+}

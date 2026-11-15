@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    "ends_delight:liquid_dragon_egg",
+    "#ends_delight:shulker_meat",
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    },
+    "minecraft:brown_mushroom",
+    "ends_delight:chorus_succulent",
+    "#c:crops/onion"
+  ],
+  "result": {
+    "id": "ends_delight:steamed_dragon_egg_block"
+  },
+  "container": {
+    "id": "ends_delight:half_dragon_egg_shell"
+  },
+  "recipe_book_tab": "meals",
+  "cookingtime": 200,
+  "experience": 2.0
+}

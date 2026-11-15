@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    },
+    "ends_delight:chorus_succulent",
+    "ends_delight:chorus_succulent",
+    "#c:crops/cabbage",
+    "#c:crops/tomato",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "ends_delight:end_mixed_salad",
+    "count": 1
+  }
+}

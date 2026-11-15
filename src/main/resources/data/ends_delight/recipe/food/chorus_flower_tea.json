@@ -1,0 +1,13 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    "minecraft:ghast_tear",
+    "ends_delight:dried_chorus_flower"
+  ],
+  "result": {
+    "id": "ends_delight:chorus_flower_tea"
+  },
+  "recipe_book_tab": "drinks",
+  "cookingtime": 200,
+  "experience": 1.0
+}

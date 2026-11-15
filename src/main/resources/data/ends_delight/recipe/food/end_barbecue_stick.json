@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#ends_delight:roasted_shulker_meat",
+    "#ends_delight:roasted_dragon_meat",
+    "minecraft:chorus_fruit",
+    "ends_delight:dried_endermite_meat",
+    "minecraft:stick",
+    "minecraft:stick",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "ends_delight:end_barbecue_stick",
+    "count": 3
+  }
+}

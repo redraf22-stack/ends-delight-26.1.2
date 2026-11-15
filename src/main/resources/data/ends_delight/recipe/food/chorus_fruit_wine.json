@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "ingredients": [
+    "minecraft:sugar",
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    },
+    {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:chorus_fruit",
+        "ends_delight:chorus_fruit_grain"
+      ]
+    }
+  ],
+  "result": {
+    "id": "ends_delight:chorus_fruit_wine"
+  },
+  "recipe_book_tab": "drinks",
+  "cookingtime": 200,
+  "experience": 1.0
+}

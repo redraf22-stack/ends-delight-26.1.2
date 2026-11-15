@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:dragon_breath",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "ends_delight:dragon_breath_soda"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:eggs",
+    "#ends_delight:shulker_meat",
+    "#c:crops/onion"
+  ],
+  "result": {
+    "id": "ends_delight:shulker_omelette_mixture"
+  }
+}
